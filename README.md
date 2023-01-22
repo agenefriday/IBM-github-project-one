@@ -1,1 +1,8 @@
-This project is for a micro-finance company. The aim of the organization is to provide and empower opportunites to low income individuals 
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
